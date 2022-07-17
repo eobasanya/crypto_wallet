@@ -1,6 +1,6 @@
 # Crypto Wallet
 
-This project covers how to send cryptocurrency payments to various accounts using solidity code
+This project covers how to send cryptocurrency payments to various accounts using python code
 
 # Main App
 
