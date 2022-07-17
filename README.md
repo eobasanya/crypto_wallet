@@ -1,6 +1,6 @@
 # Crypto Wallet
 
-This project covers how to send cryptocurrency payments to various accounts using python code
+This project covers how to send cryptocurrency payments to various accounts using python code and the Web 3 api
 
 # Main App
 
